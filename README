@@ -18,3 +18,7 @@ For SVG support, you need PyCha 0.4.2 or later.
 
     http://www.lorenzogil.com/projects/pycha/
 
+To install this package to virtualenviornment or some thing like that with pip
+```
+pip install git+https://github.com/ajeebkp23/python-relatorio.git
+```
